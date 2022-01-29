@@ -50,6 +50,9 @@ https://srv6.zcast.com.br/anitv/anitv/chunklist_w1881546163.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ipgo.xyz/imagens/logoAnimetv.png" group-title="NooXTV",AnimeTV
 https://stmv1.srvif.com/animetv/animetv/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/59K7zP7j/APLUS-TV-8.png" group-title="NooXTV",A Plus TV
+https://stmv.webtv.vivavencendo.com/aplustv/aplustv/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ararunaonline.com/static/noticias/ararunatv-assista1611937641.png" group-title="NooXTV",Araruna TV
 https://video01.logicahost.com.br/ararunatv/ararunatv/chunklist.m3u8
 
@@ -169,6 +172,9 @@ https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/06/ctv.jpg" group-title="NooXTV",CTV PB
 https://5d2c98775bafe.streamlock.net/8020/8020/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbr-str.srvsite.com/arquivos/8357/banner-8357-20211030223754.png" group-title="NooXTV",CVTV
+https://stmv3.samcast.com.br/dermeval8653/dermeval8653/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5a0ca2ab1c68adcde7bf577af87071b8.jpg" group-title="NooXTV",D+ TV
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
@@ -293,9 +299,6 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/jovem
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.oantagonista.com/uploads/2021/10/Captura-de-Tela-2021-10-12-as-21.18.54-1024x559.png" group-title="NooXTV",Jovem Pan News
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/66/Jr24h_logo_2019.png" group-title="NooXTV",Jornal da Record
-https://r7live15-lh.akamaihd.net/i/pgm15_1@833327/index_720_av-p.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/967989989584678914/RHSny5J-_400x400.jpg" group-title="NooXTV",Kiss TV
 https://cast.cdnseguro.com:19360/8094/8094.m3u8
 
@@ -308,7 +311,7 @@ https://stmv1.srvstm.com/joaomatheus8496/joaomatheus8496/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.iptv2022.com/uploads/channel/11698/thumb_LIFE_CHANNEL_BRASI.jpeg" group-title="NooXTV",Life Channel
 https://cdn.connectbr.com.br/life/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://loading52x.com.br/assets/images/logo-bg-video.png" group-title="NooXTV",Loading TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://loading52x.com.br/assets/images/logo-bg-video.png" group-title="NooXTV",Loadingº
 https://stmv.video.expressolider.com.br/loadingtv/loadingtv/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://londrinatv.com.br/img/6d6ad9433e93ca209378ed1e770e0b0f.png" group-title="NooXTV",Londrina TV
@@ -344,6 +347,9 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mundotv.tv.br/assets/images/logo-mundo-tv-vertical-2.png" group-title="NooXTV",Mundo TV
 https://video01.logicahost.com.br/mundotvbrasil/mundotvbrasil/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mundotv.tv.br/assets/images/logo-mundo-tv-vertical-2.png" group-title="NooXTV",mundo TV 2
+https://5cf4a2c2512a2.streamlock.net/mundotv/mundotv/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://multitva.com/images/logo_multitva4.png" group-title="NooXTV",Multitva
 https://livefocamundo.com:8081/multitva/tracks-v1a1/mono.m3u8
 
@@ -368,8 +374,8 @@ https://cdn.connectbr.com.br/matopiba/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wixstatic.com/media/5b0b07_93369ad3f52845d4add7e48e8dd98d26~mv2.png" group-title="NooXTV",Nova TV Salto
 https://cdn.connectbr.com.br/regional/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://spaceks.net/tv/rodrigo1332.png" group-title="NooXTV",ON TV
-https://video01.kshost.com.br:4443/rodrigo1332/rodrigo1332/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbr-str.srvsite.com/arquivos/9565/cabecalho-9565-20220127112231.png" group-title="NooXTV",ON TV
+https://stmv4.samcast.com.br/rodrigo5589/rodrigo5589/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.iptv2022.com/uploads/channel/12111/thumb_OX_TV_.jpg" group-title="NooXTV",OX TV
 https://alanza.iptv2022.com/OX_TV/tracks-v1a1/mono.m3u8
@@ -397,6 +403,9 @@ https://video01.logicahost.com.br/qtalchannel/qtalchannel/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://redeamigoespirita.com.br/wp-content/uploads/2020/09/topo2.png" group-title="NooXTV",RAE TV
 https://video01.logicahost.com.br/raetv/raetv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.radiomixcidade.net/admin/assets/img/logo.png" group-title="NooXTV",Radio Mix Cidade
+https://stmv1.srvstm.com/gustavocampelo/gustavocampelo/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://radioplugaraucaria.com/wp-content/uploads/2021/01/cropped-cropped-cropped-Untitled-1-1-1.png" group-title="NooXTV",Radio Plug
 https://srv2.zcast.com.br/danilo2383/danilo2383/chunklist.m3u8
@@ -656,9 +665,6 @@ https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/chun
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbr-str.srvsite.com/arquivos/8303/cabecalho-8303-20200929213816.png" group-title="NooXTV",TV Mais Brasil
 https://srv5.zcast.com.br/tvmaisbrasil/tvmaisbrasil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgF2gAqQCQOM9JcNYOme_VSNNZcui5Lk-PXQ5i4U3yH9kfwSPwm-mfDpRKoYSneU4-8XLaIA6nV8bajFVUcRaDbIhMMjFpglbppY22R-aeh1iy029wcm2IxDV7LRXxsl-ua4U1qemNBVN5qGvcDm-yPupQsH0Yk543aLCge-3fsO75VUJy-wHmen_N0=s200" group-title="NooXTV",TV Manchete Web
-https://video01.kshost.com.br:4443/alexandre8394/alexandre8394/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pa-str.srvsite.com/arquivos/5322/cabecalho-5322-20200804004732.png" group-title="NooXTV",TV Mar Rio Grande
 https://59f2354c05961.streamlock.net:1443/tvmarrg/_definst_/tvmarrg/chunklist.m3u8
 
@@ -670,6 +676,9 @@ https://5cf4a2c2512a2.streamlock.net/tvmax/tvmax/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tvmetropolecanal16.com.br/images/logo-tv-metropole.png" group-title="NooXTV",TV Metrópole
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wixstatic.com/media/d68b93_7047da25d7e14292a4ef93eb85d48307~mv2.png" group-title="NooXTV",TV Metrópole ourinhos
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/tvmetropoleourinhos/live
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbr-str.srvsite.com/arquivos/7288/cabecalho-7288-20191105092004.png" group-title="NooXTV",TV Meu Xodó
 https://5d82644094cc0.streamlock.net/8192/8192/chunklist.m3u8
@@ -685,6 +694,9 @@ https://srv5.zcast.com.br/genilson8407/genilson8407/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvnatal.com.br/assets/images/logo/logo%20HD%20c%C3%B3pia.png" group-title="NooXTV",TV Natal
 http://tvnatal.ddns.net:1935/vmix/myStream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/r4XHIWQ.png" group-title="NooXTV",TV Nordestina
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/TVNordestinaOficial/live
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/r4XHIWQ.png" group-title="NooXTV",TV Nordestina
 https://video01.soultv.com.br/tvnordestina/tvnordestina/playlist.m3u8
@@ -791,9 +803,6 @@ https://59f1cbe63db89.streamlock.net:1443/raniere/_definst_/raniere/chunklist.m3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ps-str.srvsite.com/arquivos/7010/cabecalho-7010-20201017230743.png" group-title="NooXTV",TV Uni Sat
 https://stmv1.srvstm.com/jurandir3193/jurandir3193/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vipotv.com/wp-content/uploads/2021/03/Tv-Vale-Das-Artes-live-vipotv.png" group-title="NooXTV",TV Vale Das Artes
-https://59f1cbe63db89.streamlock.net:1443/tvvaledasartes/_definst_/tvvaledasartes/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/0f/LogoTVWA.png" group-title="NooXTV",TV WA
 https://cdn.jmvstream.com/w/LVW-9892/ngrp:LVW9892_PCIeyMXAKy_all/chunklist_b946000.m3u8
 
@@ -848,9 +857,6 @@ https://stmv1.srvstm.com/rogerio4248/rogerio4248/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.virtual.tv.br/assets/images/faviconvirtualtv.png" group-title="NooXTV",Virtual TV
 https://59f1cbe63db89.streamlock.net:1443/mundotv2/_definst_/mundotv2/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.virtual.tv.br/assets/images/faviconvirtualtv.png" group-title="NooXTV",Virtual TV 2
-https://5cf4a2c2512a2.streamlock.net/mundotv/mundotv/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yata-apix-576c2fb0-548d-4d59-a3c0-78860c2ba250.lss.locawebcorp.com.br/5d6504ea051441c9904abf24ad0a5c50.png" group-title="NooXTV",VRT Channel
 https://stream.vrtchannel.tv.br:1936/vrtchannel/ngrp:vrtchannel_all/chunklist.m3u8
 
@@ -859,6 +865,9 @@ https://video01.kshost.com.br:4443/seap8272/seap8272/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiMNsuRoxc-Xg1sf4BkZeRXS7W6710qy-EkiA4e6MhGEMDCT8nFOJrfLMcy_g_1kQm1W2Lwe_NhhhiwS1CK5wasw2IkKbS_UUYL5Ms4sYPOTRtIOwbK4ZO1HGGogMmH5mGyoKc8bJm62DrmR4yr8_-KBQPokdGSXpvURwOmrv8jSdQVcX-AUIJN3w4O=s200" group-title="NooXTV",Web TV Clássicos do cinema
 https://cdnhd.iblups.com/hls/KjpAu5k2I3.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://webtvparacatu.com.br/hf-conteudo/uploads/layout/logo_2d26cd0ffe16e2fcc6b32676ca90098e.png" group-title="NooXTV",Web TV Paracatu
+https://cdn.jmvstream.com/w/AVJ-9906/playlist/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-46V7z5IXrUM/YKE4qrtTBcI/AAAAAAAAErA/tX5hX-ugVRUTQwII8C7hlpcye1nlgzrwgCLcBGAsYHQ/s0/WTV%2BBRASIL.png" group-title="NooXTV",WTV Brasil
 https://stmv1.srvstm.com/wtvbrasil/wtvbrasil/chunklist.m3u8
